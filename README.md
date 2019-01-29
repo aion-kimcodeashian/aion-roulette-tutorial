@@ -1,8 +1,9 @@
-# Aion Animal Roulette
+# Aion Pet Roulette
 
 ![Four Animals in a Row](img/readme-image.png)
 
-This is the repository for the [Aion Animal Roulette Tutorial](https://aion-roulette.netlify.com)! Everything here is built on top of the [Aion Network](https://aion.network). Head on over to the guide that will teach you on how to:
+This is the repository for the [Aion Animal Roulette Tutorial](https://aion-roulette.netlify.com)! Everything here is built on top of the [Aion Network](https://aion.network). Head on over to the [guide] that will teach you on how to:
+
 1. Setup your Environment
 2. Write the Smart Contract (Solidity v0.4.15)
 3. Compile/Deploy the Smart Contract via ~ Titan Suite
