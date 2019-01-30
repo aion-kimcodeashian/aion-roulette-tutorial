@@ -125,7 +125,7 @@ class App extends React.Component {
         <br/>
         If no winner, total AION pool will rollover.
         <br/>
-        See the smart contract in action <a href="https://mastery.aion.network/#/account/a0e51f852783e5edd470657e8e3581b091816c37aa783e7e52f3a4638d16349c" target="_blank">here!</a>
+        See the smart contract in action <a href="https://mastery.aion.network/#/account/SMARTCONTRACTADDRESSHERE" target="_blank">here!</a>
         <a href="https://twitter.com/KimCodeashian/status/1086077442026921984" target="_blank" className="info"> &#9432; </a>
       </h2>
 
